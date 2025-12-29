@@ -5,7 +5,6 @@
 Hand Gesture Window Control is a <mark>computer vision–based desktop control system</mark> written in Python that allows users to control windows, mouse movement, scrolling, and system shortcuts using hand gestures captured via webcam. The software leverages MediaPipe Hands for real-time hand landmark detection and OpenCV for video processing, translating specific finger positions and distances into OS-level actions such as ALT+TAB, window dragging, mouse movement, clicks, and scrolling; all without touching the keyboard or mouse.
 
 ![Static Badge](https://img.shields.io/badge/python-%20%3E%203.12-green?style=flat&labelColor=red&color=greed)
-<a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-%20%3E%204.4-%234285F4?labelColor=blue)"></a>
 ![Static Badge](https://img.shields.io/badge/license-MIT-blue)
 <a href="https://www.maxmind.com/en/geoip-databases"><img src="[https://img.shields.io/github/v/release/xnbox/DeepfakeHTTP?style=flat-square&color=28A745](https://img.shields.io/badge/MaxMind-Database-%237DCDA3?labelColor=%23FFA200)"></a>
 <a href="https://github.com/Nicofontanarosa"><img src="https://img.shields.io/badge/powered_by-Nicofontanarosa-blueviolet"></a>
@@ -112,8 +111,7 @@ While in drag mode: Index + middle fingers raised
 
 # 📌 Requirements
 
-To run the `Hand-Gesture-Control.py` script, you need to have **Python** installed on your system ( *Tested on Python version >= 3.12* )
-The script uses the following standard libraries:
+To run the `Hand-Gesture-Control.py` script, you need to have **Python** installed on your system ( *Tested on Python version >= 3.12* ). The script uses the following standard libraries:
 
 - **opencv-python**
 - **mediapipe**
@@ -130,7 +128,9 @@ This project is distributed under the terms of the MIT License. A complete copy 
 - Email: nickcompanyofficial@gmail.com
 - Year: 2025
 
-## 🙌 DISCLAIMER
+---
+
+# 🙌 DISCLAIMER
 
 While I do my best, I cannot guarantee that this software is error-free or 100% accurate. Please ensure that you respect users' privacy and have proper authorization
 
