@@ -95,7 +95,7 @@ While in drag mode: Index + middle fingers raised
 - Index finger controls mouse movement
 - Separating thumb and ring finger triggers a click
 
-<p align="center"><img src="img/mouse_control_gesture.png" /></p>
+<p align="center"><img src="img/mouse_control_gesture.png" width="300"/></p>
 
 ### 🖱️ Scroll Mode
 
