@@ -6,7 +6,6 @@ Hand Gesture Window Control is a <mark>computer vision–based desktop control s
 
 ![Static Badge](https://img.shields.io/badge/python-%20%3E%203.12-green?style=flat&labelColor=red&color=greed)
 ![Static Badge](https://img.shields.io/badge/license-MIT-blue)
-<a href="https://www.maxmind.com/en/geoip-databases"><img src="[https://img.shields.io/github/v/release/xnbox/DeepfakeHTTP?style=flat-square&color=28A745](https://img.shields.io/badge/MaxMind-Database-%237DCDA3?labelColor=%23FFA200)"></a>
 <a href="https://github.com/Nicofontanarosa"><img src="https://img.shields.io/badge/powered_by-Nicofontanarosa-blueviolet"></a>
 
 ---
