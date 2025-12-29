@@ -51,7 +51,7 @@ Below is a description of each supported gesture and how your hand should be pos
 
 Default state. The system waits for a valid gesture. Supported states are ***idle, alt_tab, drag, mouse, scroll***
 
-<p align="center"><img src="img/idle_hand.png" /></p>
+<p align="center"><img src="img/idle_hand.png" width="300"/></p>
 
 ### 🔁 ALT + TAB Mode (Application Switching)
 
@@ -64,7 +64,7 @@ Default state. The system waits for a valid gesture. Supported states are ***idl
 - Repeats TAB while the gesture is maintained
 - Releases ALT when fingers separate
 
-<p align="center"><img src="img/alt_tab_gesture.png" /></p>
+<p align="center"><img src="img/alt_tab_gesture.png" width="300"/></p>
 
 ### 🪟 Window Drag Mode
 
@@ -76,13 +76,13 @@ Default state. The system waits for a valid gesture. Supported states are ***idl
 - Selects the currently focused window
 - Moves the window following hand movement
 
-<p align="center"><img src="img/drag_window_gesture.png" /></p>
+<p align="center"><img src="img/drag_window_gesture.png" width="300"/></p>
 
 ### 🖥️ Fullscreen Window
 
 While in drag mode: Index + middle fingers raised
 
-<p align="center"><img src="img/fullscreen_gesture.png" /></p>
+<p align="center"><img src="img/fullscreen_gesture.png" width="300"/></p>
 
 ### 🖱️ Mouse Control Mode
 
@@ -106,7 +106,7 @@ While in drag mode: Index + middle fingers raised
 - Thumb close to pinky → Scroll down
 - Thumb far from pinky → Scroll up
 
-<p align="center"><img src="img/scroll_gesture.png" /></p>
+<p align="center"><img src="img/scroll_gesture.png" width="300"/></p>
 
 ---
 
