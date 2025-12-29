@@ -17,7 +17,7 @@ To get started with **HGC**, follow these steps:
 
 ### 1️⃣ Install dependencies
 
-- Make sure you have Python installed ( tested with Python ≥ 3.10 ), then install the required libraries:
+- Make sure you have Python installed ( tested with Python ≥ 3.12 ), then install the required libraries:
 
 `pip install opencv-python mediapipe pyautogui pywin32`
 
