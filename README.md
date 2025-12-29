@@ -112,11 +112,13 @@ While in drag mode: Index + middle fingers raised
 
 # 📌 Requirements
 
-To run the `generator.py` script, you need to have **Python** installed on your system ( *Tested on Python version >= 3.12* )
-The script uses the following standard libraries, which are included in the Python Standard Library
+To run the `Hand-Gesture-Control.py` script, you need to have **Python** installed on your system ( *Tested on Python version >= 3.12* )
+The script uses the following standard libraries:
 
-- ✅ No external dependencies are required
-- **This plugin requires Wireshark version 4.4 or later**
+- **opencv-python**
+- **mediapipe**
+- **pyautogui**
+- **pywin32**
 
 ---
 
