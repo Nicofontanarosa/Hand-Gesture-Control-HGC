@@ -105,6 +105,7 @@ While in drag mode: Index + middle fingers raised
 - Thumb far from pinky → Scroll up
 
 <p align="center"><img src="img/scroll_gesture.png" width="300"/></p>
+<p align="center"><img src="img/scroll_gesture_1.png" width="300"/></p>
 
 ---
 
