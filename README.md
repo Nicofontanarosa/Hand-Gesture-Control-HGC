@@ -85,13 +85,13 @@ While in drag mode: Index + middle fingers raised
 ### 🖱️ Mouse Control Mode
 
 **Gesture**
-- Thumb close to ring finger
+- Thumb close to middle finger
 - Index finger raised
 
 **Action**
 
 - Index finger controls mouse movement
-- Separating thumb and ring finger triggers a click
+- Separating thumb and middle finger triggers a click
 
 <p align="center"><img src="img/mouse_control_gesture.png" width="300"/></p>
 
